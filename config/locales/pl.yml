@@ -37,7 +37,6 @@ pl:
   leave_us_a_review_for: "Dodaj opinię o %{name}"
   no_reviews_available: "Ten produkt nie posiada opinii."
   original_version: "Oryginalna wersja"
-  out_of_5: "z 5"
   rating: Ocena
   reviews: Opinie
   review_guidelines: Zasady zamieszczania opinii
@@ -69,3 +68,5 @@ pl:
   was_this_review_helpful: "Czy ta opinia była pomocna dla Ciebie?"
   write_your_own_review: Napisz swoją opinię
   you_must_enter_value_for_rating: "Musisz wystawić jakąś ocenę."
+  out_of: z
+
